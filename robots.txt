@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://adohceoh.thoughtslogged.com/sitemap.xml
